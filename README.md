@@ -1,2 +1,1 @@
-# Stackerz
- 
+# StackingGame
